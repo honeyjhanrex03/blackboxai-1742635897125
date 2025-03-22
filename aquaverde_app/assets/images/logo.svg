@@ -1,0 +1,10 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Mountain -->
+  <path d="M60 20C60 20 80 60 100 80C80 90 40 90 20 80C40 60 60 20 60 20Z" fill="#00C853"/>
+  
+  <!-- Water Wave -->
+  <path d="M20 90C20 90 40 80 60 90C80 100 100 90 100 90C100 90 80 110 60 100C40 90 20 90 20 90Z" fill="#6C63FF"/>
+  
+  <!-- Circle Border -->
+  <circle cx="60" cy="60" r="58" stroke="#6C63FF" stroke-width="4" fill="none"/>
+</svg>
